@@ -1,0 +1,1139 @@
+{
+  "data": [
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "description",
+      "input_type": "richText",
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Long Description (Lorikeet)",
+      "id": 100005530
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "short_description",
+      "input_type": "richText",
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Short Description",
+      "id": 100005505
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "video",
+      "input_type": "text",
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Video URL",
+      "id": 100005577
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "color_family",
+      "input_type": "multiEnumInput",
+      "options": [
+        {
+          "name": "Olive",
+          "en_name": "Olive",
+          "id": 330
+        },
+        {
+          "name": "Cherry",
+          "en_name": "Cherry",
+          "id": 680
+        },
+        {
+          "name": "Galaxy",
+          "en_name": "Galaxy",
+          "id": 874
+        },
+        {
+          "name": "Chocolate",
+          "en_name": "Chocolate",
+          "id": 2309
+        },
+        {
+          "name": "Ivory",
+          "en_name": "Ivory",
+          "id": 2466
+        },
+        {
+          "name": "Rainbow",
+          "en_name": "Rainbow",
+          "id": 3654
+        },
+        {
+          "name": "Rose",
+          "en_name": "Rose",
+          "id": 3904
+        },
+        {
+          "name": "Mango",
+          "en_name": "Mango",
+          "id": 4557
+        },
+        {
+          "name": "Blue",
+          "en_name": "Blue",
+          "id": 9814
+        },
+        {
+          "name": "Aqua",
+          "en_name": "Aqua",
+          "id": 10013
+        },
+        {
+          "name": "Bronze",
+          "en_name": "Bronze",
+          "id": 10103
+        },
+        {
+          "name": "Camel",
+          "en_name": "Camel",
+          "id": 10114
+        },
+        {
+          "name": "Neon",
+          "en_name": "Neon",
+          "id": 10688
+        },
+        {
+          "name": "Sand",
+          "en_name": "Sand",
+          "id": 16423
+        },
+        {
+          "name": "Orange",
+          "en_name": "Orange",
+          "id": 19517
+        },
+        {
+          "name": "Green",
+          "en_name": "Green",
+          "id": 19962
+        },
+        {
+          "name": "Not Specified",
+          "en_name": "Not Specified",
+          "id": 20884
+        },
+        {
+          "name": "Magenta",
+          "en_name": "Magenta",
+          "id": 29629
+        },
+        {
+          "name": "Mahogany",
+          "en_name": "Mahogany",
+          "id": 29660
+        },
+        {
+          "name": "Jade",
+          "en_name": "Jade",
+          "id": 39504
+        },
+        {
+          "name": "White",
+          "en_name": "White",
+          "id": 42259
+        },
+        {
+          "name": "Purple",
+          "en_name": "Purple",
+          "id": 47437
+        },
+        {
+          "name": "Maroon",
+          "en_name": "Maroon",
+          "id": 52244
+        },
+        {
+          "name": "Red",
+          "en_name": "Red",
+          "id": 52571
+        },
+        {
+          "name": "Blueberry",
+          "en_name": "Blueberry",
+          "id": 55452
+        },
+        {
+          "name": "Cream",
+          "en_name": "Cream",
+          "id": 55457
+        },
+        {
+          "name": "Coffee",
+          "en_name": "Coffee",
+          "id": 55466
+        },
+        {
+          "name": "Peach",
+          "en_name": "Peach",
+          "id": 55473
+        },
+        {
+          "name": "Peanut",
+          "en_name": "Peanut",
+          "id": 55481
+        },
+        {
+          "name": "Mint",
+          "en_name": "Mint",
+          "id": 55498
+        },
+        {
+          "name": "Silver",
+          "en_name": "Silver",
+          "id": 55567
+        },
+        {
+          "name": "Yellow",
+          "en_name": "Yellow",
+          "id": 65290
+        },
+        {
+          "name": "Pink",
+          "en_name": "Pink",
+          "id": 65968
+        },
+        {
+          "name": "Grey",
+          "en_name": "Grey",
+          "id": 65976
+        },
+        {
+          "name": "Multicolor",
+          "en_name": "Multicolor",
+          "id": 65993
+        },
+        {
+          "name": "Brown",
+          "en_name": "Brown",
+          "id": 65996
+        },
+        {
+          "name": "Floral",
+          "en_name": "Floral",
+          "id": 66094
+        },
+        {
+          "name": "Cinnamon",
+          "en_name": "Cinnamon",
+          "id": 66127
+        },
+        {
+          "name": "Beige",
+          "en_name": "Beige",
+          "id": 70841
+        },
+        {
+          "name": "Chestnut",
+          "en_name": "Chestnut",
+          "id": 71277
+        },
+        {
+          "name": "Neutral",
+          "en_name": "Neutral",
+          "id": 72206
+        },
+        {
+          "name": "Champagne",
+          "en_name": "Champagne",
+          "id": 72249
+        },
+        {
+          "name": "Lavender",
+          "en_name": "Lavender",
+          "id": 72355
+        },
+        {
+          "name": "Matte Black",
+          "en_name": "Matte Black",
+          "id": 72614
+        },
+        {
+          "name": "Turquoise",
+          "en_name": "Turquoise",
+          "id": 72659
+        },
+        {
+          "name": "Light blue",
+          "en_name": "Light blue",
+          "id": 72675
+        },
+        {
+          "name": "Violet",
+          "en_name": "Violet",
+          "id": 72685
+        },
+        {
+          "name": "Dark Brown",
+          "en_name": "Dark Brown",
+          "id": 73341
+        },
+        {
+          "name": "Rose Gold",
+          "en_name": "Rose Gold",
+          "id": 73596
+        },
+        {
+          "name": "Blush Pink",
+          "en_name": "Blush Pink",
+          "id": 75184
+        },
+        {
+          "name": "Avocado",
+          "en_name": "Avocado",
+          "id": 75186
+        },
+        {
+          "name": "Charcoal",
+          "en_name": "Charcoal",
+          "id": 75192
+        },
+        {
+          "name": "Chili Red",
+          "en_name": "Chili Red",
+          "id": 75193
+        },
+        {
+          "name": "Apricot",
+          "en_name": "Apricot",
+          "id": 75194
+        },
+        {
+          "name": "Hotpink",
+          "en_name": "Hotpink",
+          "id": 75195
+        },
+        {
+          "name": "Khaki",
+          "en_name": "Khaki",
+          "id": 75196
+        },
+        {
+          "name": "Tan",
+          "en_name": "Tan",
+          "id": 75197
+        },
+        {
+          "name": "Navy Blue",
+          "en_name": "Navy Blue",
+          "id": 75422
+        },
+        {
+          "name": "Light yellow",
+          "en_name": "Light yellow",
+          "id": 75429
+        },
+        {
+          "name": "Watermelon red",
+          "en_name": "Watermelon red",
+          "id": 75431
+        },
+        {
+          "name": "Emerald Green",
+          "en_name": "Emerald Green",
+          "id": 75432
+        },
+        {
+          "name": "Fluorescent Yellow",
+          "en_name": "Fluorescent Yellow",
+          "id": 75433
+        },
+        {
+          "name": "Off White",
+          "en_name": "Off White",
+          "id": 75434
+        },
+        {
+          "name": "Light Grey",
+          "en_name": "Light Grey",
+          "id": 75435
+        },
+        {
+          "name": "Deep green",
+          "en_name": "Deep green",
+          "id": 75437
+        },
+        {
+          "name": "Burgundy",
+          "en_name": "Burgundy",
+          "id": 75455
+        },
+        {
+          "name": "Light green",
+          "en_name": "Light green",
+          "id": 75457
+        },
+        {
+          "name": "Fluorescent Green",
+          "en_name": "Fluorescent Green",
+          "id": 75459
+        },
+        {
+          "name": "Lake Blue",
+          "en_name": "Lake Blue",
+          "id": 75466
+        },
+        {
+          "name": "Lemon Yellow",
+          "en_name": "Lemon Yellow",
+          "id": 75468
+        },
+        {
+          "name": "Army Green",
+          "en_name": "Army Green",
+          "id": 75470
+        },
+        {
+          "name": "Gold",
+          "en_name": "Gold",
+          "id": 75674
+        },
+        {
+          "name": "Black",
+          "en_name": "Black",
+          "id": 75689
+        },
+        {
+          "name": "Clear",
+          "en_name": "Clear",
+          "id": 75699
+        },
+        {
+          "name": "Dark blue",
+          "en_name": "Dark blue",
+          "id": 75885
+        },
+        {
+          "name": "…",
+          "en_name": "…",
+          "id": 80235
+        },
+        {
+          "name": "Dark Grey",
+          "en_name": "Dark Grey",
+          "id": 87881
+        },
+        {
+          "name": "Fuchsia",
+          "en_name": "Fuchsia",
+          "id": 88049
+        },
+        {
+          "name": "Blue Gray",
+          "en_name": "Blue Gray",
+          "id": 88050
+        },
+        {
+          "name": "Orchid Grey",
+          "en_name": "Orchid Grey",
+          "id": 89538
+        },
+        {
+          "name": "Teal",
+          "en_name": "Teal",
+          "id": 114532
+        },
+        {
+          "name": "Jet Black",
+          "en_name": "Jet Black",
+          "id": 119740
+        },
+        {
+          "name": "Cacao",
+          "en_name": "Cacao",
+          "id": 139869
+        },
+        {
+          "name": "Wither Black",
+          "en_name": "Wither Black",
+          "id": 139870
+        },
+        {
+          "name": "Sand Brown",
+          "en_name": "Sand Brown",
+          "id": 139871
+        },
+        {
+          "name": "Dark Ash",
+          "en_name": "Dark Ash",
+          "id": 139872
+        },
+        {
+          "name": "Deep Gray",
+          "en_name": "Deep Gray",
+          "id": 139873
+        },
+        {
+          "name": "Champagne Pink",
+          "en_name": "Champagne Pink",
+          "id": 139874
+        },
+        {
+          "name": "Light Ash",
+          "en_name": "Light Ash",
+          "id": 139875
+        },
+        {
+          "name": "Antique White",
+          "en_name": "Antique White",
+          "id": 139876
+        },
+        {
+          "name": "Ochre Brown",
+          "en_name": "Ochre Brown",
+          "id": 139877
+        },
+        {
+          "name": "Glitter Black",
+          "en_name": "Glitter Black",
+          "id": 139882
+        },
+        {
+          "name": "Glitter Blue",
+          "en_name": "Glitter Blue",
+          "id": 139883
+        },
+        {
+          "name": "Metallic Cherry",
+          "en_name": "Metallic Cherry",
+          "id": 139884
+        },
+        {
+          "name": "Metallic Lilac",
+          "en_name": "Metallic Lilac",
+          "id": 139885
+        },
+        {
+          "name": "Metallic Teal",
+          "en_name": "Metallic Teal",
+          "id": 139886
+        },
+        {
+          "name": "Space Grey",
+          "en_name": "Space Grey",
+          "id": 140304
+        },
+        {
+          "name": "Light Black",
+          "en_name": "Light Black",
+          "id": 146500
+        },
+        {
+          "name": "Rose Red",
+          "en_name": "Rose Red",
+          "id": 146501
+        },
+        {
+          "name": "Deep Black",
+          "en_name": "Deep Black",
+          "id": 146502
+        },
+        {
+          "name": "Deep Blue",
+          "en_name": "Deep Blue",
+          "id": 146503
+        },
+        {
+          "name": "Glow Yellow",
+          "en_name": "Glow Yellow",
+          "id": 146504
+        },
+        {
+          "name": "Neo Bright",
+          "en_name": "Neo Bright",
+          "id": 146505
+        }
+      ],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Color",
+      "id": 100005683
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "__images__",
+      "input_type": "img",
+      "is_mandatory": 0,
+      "attribute_type": "sku",
+      "label": "Images",
+      "id": 40000
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "package_width",
+      "input_type": "numeric",
+      "is_mandatory": 1,
+      "attribute_type": "sku",
+      "label": "Package Width (cm)",
+      "id": 100005495
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "special_to_date",
+      "input_type": "date",
+      "is_mandatory": 0,
+      "attribute_type": "sku",
+      "label": "End date of promotion",
+      "id": 100005494
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "package_height",
+      "input_type": "numeric",
+      "is_mandatory": 1,
+      "attribute_type": "sku",
+      "label": "Package Height (cm)",
+      "id": 100005500
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "product_warranty_en",
+      "input_type": "text",
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Warranty Policy (English)",
+      "id": 100005503
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "warranty",
+      "input_type": "singleSelect",
+      "options": [
+        {
+          "name": "4 Years",
+          "en_name": "4 Years",
+          "id": 54716
+        },
+        {
+          "name": "3 Years",
+          "en_name": "3 Years",
+          "id": 54722
+        },
+        {
+          "name": "5 Years",
+          "en_name": "5 Years",
+          "id": 71485
+        },
+        {
+          "name": "1 Month",
+          "en_name": "1 Month",
+          "id": 71488
+        },
+        {
+          "name": "4 Months",
+          "en_name": "4 Months",
+          "id": 71499
+        },
+        {
+          "name": "8 Years",
+          "en_name": "8 Years",
+          "id": 71530
+        },
+        {
+          "name": "9 Months",
+          "en_name": "9 Months",
+          "id": 71544
+        },
+        {
+          "name": "6 Months",
+          "en_name": "6 Months",
+          "id": 71559
+        },
+        {
+          "name": "3 Months",
+          "en_name": "3 Months",
+          "id": 75164
+        },
+        {
+          "name": "10 Months",
+          "en_name": "10 Months",
+          "id": 75167
+        },
+        {
+          "name": "2 Months",
+          "en_name": "2 Months",
+          "id": 75169
+        },
+        {
+          "name": "1 Year",
+          "en_name": "1 Year",
+          "id": 75170
+        },
+        {
+          "name": "25 Years",
+          "en_name": "25 Years",
+          "id": 75171
+        },
+        {
+          "name": "Life Time Warranty",
+          "en_name": "Life Time Warranty",
+          "id": 75180
+        },
+        {
+          "name": "15 Years",
+          "en_name": "15 Years",
+          "id": 75399
+        },
+        {
+          "name": "11 Months",
+          "en_name": "11 Months",
+          "id": 75404
+        },
+        {
+          "name": "8 Months",
+          "en_name": "8 Months",
+          "id": 75406
+        },
+        {
+          "name": "7 Months",
+          "en_name": "7 Months",
+          "id": 75407
+        },
+        {
+          "name": "5 Months",
+          "en_name": "5 Months",
+          "id": 75408
+        },
+        {
+          "name": "18 Months",
+          "en_name": "18 Months",
+          "id": 75501
+        },
+        {
+          "name": "10 Years",
+          "en_name": "10 Years",
+          "id": 75879
+        },
+        {
+          "name": "7 Years",
+          "en_name": "7 Years",
+          "id": 75880
+        },
+        {
+          "name": "2 Years",
+          "en_name": "2 Years",
+          "id": 75881
+        },
+        {
+          "name": "20 Years",
+          "en_name": "20 Years",
+          "id": 75882
+        },
+        {
+          "name": "9 Years",
+          "en_name": "9 Years",
+          "id": 75883
+        },
+        {
+          "name": "6 Years",
+          "en_name": "6 Years",
+          "id": 75884
+        },
+        {
+          "name": "30 Years",
+          "en_name": "30 Years",
+          "id": 110008913
+        },
+        {
+          "name": "15 months",
+          "en_name": "15 months",
+          "id": 110380502
+        }
+      ],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Warranty",
+      "id": 100005502
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "package_length",
+      "input_type": "numeric",
+      "is_mandatory": 1,
+      "attribute_type": "sku",
+      "label": "Package Length (cm)",
+      "id": 100005497
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "Delivery_Option_Instant",
+      "input_type": "singleSelect",
+      "options": [
+        {
+          "name": "Yes",
+          "en_name": "Yes",
+          "id": 14800
+        },
+        {
+          "name": "No",
+          "en_name": "No",
+          "id": 20776
+        }
+      ],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Delivery Option",
+      "id": 120074405
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "package_content",
+      "input_type": "text",
+      "is_mandatory": 0,
+      "attribute_type": "sku",
+      "label": "What's in the box",
+      "id": 100005496
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "product_warranty",
+      "input_type": "text",
+      "options": [
+        {
+          "name": "Not Specified",
+          "en_name": "Not Specified",
+          "id": 20884
+        },
+        {
+          "name": "Wide Leg",
+          "en_name": "Wide Leg",
+          "id": 65834
+        },
+        {
+          "name": "Regular",
+          "en_name": "Regular",
+          "id": 65870
+        },
+        {
+          "name": "Bootcut & Flare",
+          "en_name": "Bootcut & Flare",
+          "id": 65939
+        },
+        {
+          "name": "Straight",
+          "en_name": "Straight",
+          "id": 72827
+        },
+        {
+          "name": "Skinny",
+          "en_name": "Skinny",
+          "id": 72829
+        }
+      ],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Warranty Policy",
+      "id": 100005563
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "package_weight",
+      "input_type": "numeric",
+      "is_mandatory": 1,
+      "attribute_type": "sku",
+      "label": "Package Weight (kg)",
+      "id": 100005498
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "tax_class",
+      "input_type": "singleSelect",
+      "options": [
+        {
+          "name": "default",
+          "en_name": "default",
+          "id": 75586
+        }
+      ],
+      "is_mandatory": 0,
+      "attribute_type": "sku",
+      "label": "Taxes",
+      "id": 10000
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "price",
+      "input_type": "numeric",
+      "is_mandatory": 1,
+      "attribute_type": "sku",
+      "label": "Price",
+      "id": 100005541
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "description_ms",
+      "input_type": "richText",
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Product Description (Malay)",
+      "id": 100005538
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "SellerSku",
+      "input_type": "text",
+      "is_mandatory": 1,
+      "attribute_type": "sku",
+      "label": "SellerSKU",
+      "id": 100005546
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "brand",
+      "input_type": "singleSelect",
+      "is_mandatory": 1,
+      "attribute_type": "normal",
+      "label": "Brand",
+      "id": 20000
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "Hazmat",
+      "input_type": "multiSelect",
+      "options": [
+        {
+          "name": "None",
+          "en_name": "None",
+          "id": 30791
+        },
+        {
+          "name": "Battery/Flammable/Liquid",
+          "en_name": "Battery/Flammable/Liquid",
+          "id": 63558
+        }
+      ],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Dangerous Goods",
+      "id": 100007127
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "special_from_date",
+      "input_type": "date",
+      "is_mandatory": 0,
+      "attribute_type": "sku",
+      "label": "Start date of promotion",
+      "id": 100005523
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "special_price",
+      "input_type": "numeric",
+      "is_mandatory": 0,
+      "attribute_type": "sku",
+      "label": "Special Price",
+      "id": 100005528
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "name_ms",
+      "input_type": "text",
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Name (Malay)",
+      "id": 100005573
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "quantity",
+      "input_type": "numeric",
+      "is_mandatory": 0,
+      "attribute_type": "sku",
+      "label": "Quantity",
+      "id": 100005572
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "name",
+      "input_type": "text",
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Name",
+      "id": 100005571
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "delivery_option_express",
+      "input_type": "singleSelect",
+      "options": [
+        {
+          "name": "Yes",
+          "en_name": "Yes",
+          "id": 14800
+        },
+        {
+          "name": "No",
+          "en_name": "No",
+          "id": 20776
+        }
+      ],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Delivery Option Express",
+      "id": 100005507
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "warranty_type",
+      "input_type": "singleSelect",
+      "options": [
+        {
+          "name": "International Manufacturer Warranty",
+          "en_name": "International Manufacturer Warranty",
+          "id": 75172
+        },
+        {
+          "name": "Local Supplier Warranty",
+          "en_name": "Local Supplier Warranty",
+          "id": 75178
+        },
+        {
+          "name": "Local Manufacturer Warranty",
+          "en_name": "Local Manufacturer Warranty",
+          "id": 75179
+        },
+        {
+          "name": "No Warranty",
+          "en_name": "No Warranty",
+          "id": 75397
+        },
+        {
+          "name": "International Seller Warranty",
+          "en_name": "International Seller Warranty",
+          "id": 78160
+        }
+      ],
+      "is_mandatory": 1,
+      "attribute_type": "normal",
+      "label": "Warranty Type",
+      "id": 100005515
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "delivery_option_economy",
+      "input_type": "singleSelect",
+      "options": [
+        {
+          "name": "Yes",
+          "en_name": "Yes",
+          "id": 14800
+        },
+        {
+          "name": "No",
+          "en_name": "No",
+          "id": 20776
+        }
+      ],
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "Delivery Option Economy",
+      "id": 100005578
+    },
+    {
+      "advanced": {
+        "is_key_prop": 0
+      },
+      "is_sale_prop": 0,
+      "name": "promotion_whitebkg_image",
+      "input_type": "img",
+      "is_mandatory": 0,
+      "attribute_type": "normal",
+      "label": "White Background Image",
+      "id": 0
+    }
+  ],
+  "code": "0",
+  "request_id": "212a6f1317393521671166105"
+}

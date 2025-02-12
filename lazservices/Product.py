@@ -80,3 +80,20 @@ def migrate_image(image_url: str):
     response = client.execute(request, access_token)
     
     return response.body
+
+def get_category_tree():
+    
+    request = lazop.LazopRequest('/category/tree/get','GET')
+    request.add_api_param('language_code', 'en_US')
+    response = client.execute(request)
+    
+    return response.body
+
+def get_brand_by_pages(startRow: int = 0, pageSize: int = 50):
+    
+    request = lazop.LazopRequest('/category/brands/query')
+    request.add_api_param('startRow', json.dumps(startRow))
+    request.add_api_param('pageSize', json.dumps(pageSize))
+    response = client.execute(request)
+    
+    return response.body

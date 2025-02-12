@@ -4,6 +4,14 @@ from lazmodels import CreateProductRequestModel
 
 app = FastAPI()
 
+@app.get("/Product/GetCategoryTree")
+def get_category_tree():
+    return LazProduct.get_category_tree()
+
+@app.get("/Product/GetBrandByPages")
+def get_brand_by_pages(startRow: int = 0, pageSize: int = 50):
+    return LazProduct.get_brand_by_pages(startRow, pageSize)
+
 @app.get("/Product/GetProducts")
 def get_products(limit: int = 50, offset: int = 0):
     return LazProduct.get_products(limit, offset)

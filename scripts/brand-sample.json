@@ -1,0 +1,315 @@
+{
+  "data": {
+    "enable_total": true,
+    "start_row": 0,
+    "page_index": 1,
+    "module": [
+      {
+        "name": "ABBA",
+        "global_identifier": "ABBA",
+        "name_en": "ABBA",
+        "brand_id": 5
+      },
+      {
+        "name": "Aladdin",
+        "global_identifier": "Aladdin",
+        "name_en": "Aladdin",
+        "brand_id": 23
+      },
+      {
+        "name": "AUTOMOBLOX",
+        "global_identifier": "AUTOMOBLOX",
+        "name_en": "AUTOMOBLOX",
+        "brand_id": 12
+      },
+      {
+        "name": "Areson",
+        "global_identifier": "Areson",
+        "name_en": "Areson",
+        "brand_id": 31
+      },
+      {
+        "name": "AGIP",
+        "global_identifier": "AGIP",
+        "name_en": "AGIP",
+        "brand_id": 7
+      },
+      {
+        "name": "Aromatic",
+        "global_identifier": "Aromatic",
+        "name_en": "Aromatic",
+        "brand_id": 33
+      },
+      {
+        "name": "Aipo",
+        "global_identifier": "Aipo",
+        "name_en": "Aipo",
+        "brand_id": 20
+      },
+      {
+        "name": "Apacer",
+        "global_identifier": "Apacer",
+        "name_en": "Apacer",
+        "brand_id": 29
+      },
+      {
+        "name": "Ansmann",
+        "global_identifier": "Ansmann",
+        "name_en": "Ansmann",
+        "brand_id": 28
+      },
+      {
+        "name": "ALLIANCE",
+        "global_identifier": "ALLIANCE",
+        "name_en": "ALLIANCE",
+        "brand_id": 9
+      },
+      {
+        "name": "Activision",
+        "global_identifier": "Activision",
+        "name_en": "Activision",
+        "brand_id": 17
+      },
+      {
+        "name": "BC",
+        "global_identifier": "BC",
+        "name_en": "BC",
+        "brand_id": 44
+      },
+      {
+        "name": "AiShiMas, Omoymas, Obe D'tox",
+        "global_identifier": "AiShiMas, Omoymas, Obe D'tox",
+        "name_en": "AiShiMas, Omoymas, Obe D'tox",
+        "brand_id": 21
+      },
+      {
+        "name": "Deuter",
+        "global_identifier": "Deuter",
+        "name_en": "Deuter",
+        "brand_id": 116
+      },
+      {
+        "name": "Buncho",
+        "global_identifier": "Buncho",
+        "name_en": "Buncho",
+        "brand_id": 79
+      },
+      {
+        "name": "Coway",
+        "global_identifier": "Coway",
+        "name_en": "Coway",
+        "brand_id": 103
+      },
+      {
+        "name": "Dzone",
+        "global_identifier": "Dzone",
+        "name_en": "Dzone",
+        "brand_id": 124
+      },
+      {
+        "name": "BODUM",
+        "global_identifier": "BODUM",
+        "name_en": "BODUM",
+        "brand_id": 47
+      },
+      {
+        "name": "Fossil",
+        "global_identifier": "Fossil",
+        "name_en": "Fossil",
+        "brand_id": 149
+      },
+      {
+        "name": "BabyOrganix",
+        "global_identifier": "BabyOrganix",
+        "name_en": "BabyOrganix",
+        "brand_id": 52
+      },
+      {
+        "name": "DYMO",
+        "global_identifier": "DYMO",
+        "name_en": "DYMO",
+        "brand_id": 111
+      },
+      {
+        "name": "BONEX",
+        "global_identifier": "BONEX",
+        "name_en": "BONEX",
+        "brand_id": 49
+      },
+      {
+        "name": "Cap Doa Ibu",
+        "global_identifier": "Cap Doa Ibu",
+        "name_en": "Cap Doa Ibu",
+        "brand_id": 87
+      },
+      {
+        "name": "Bistari",
+        "global_identifier": "Bistari",
+        "name_en": "Bistari",
+        "brand_id": 69
+      },
+      {
+        "name": "Double A",
+        "global_identifier": "Double A",
+        "name_en": "Double A",
+        "brand_id": 121
+      },
+      {
+        "name": "Bagman",
+        "global_identifier": "Bagman",
+        "name_en": "Bagman",
+        "brand_id": 53
+      },
+      {
+        "name": "Brite-View",
+        "global_identifier": "Brite-View",
+        "name_en": "Brite-View",
+        "brand_id": 77
+      },
+      {
+        "name": "Calvin Klein",
+        "global_identifier": "Calvin Klein",
+        "name_en": "Calvin Klein",
+        "brand_id": 85
+      },
+      {
+        "name": "Bright Starts",
+        "global_identifier": "Bright Starts",
+        "name_en": "Bright Starts",
+        "brand_id": 76
+      },
+      {
+        "name": "Bioitalia",
+        "global_identifier": "Bioitalia",
+        "name_en": "Bioitalia",
+        "brand_id": 68
+      },
+      {
+        "name": "Emporio Armani",
+        "global_identifier": "Emporio Armani",
+        "name_en": "Emporio Armani",
+        "brand_id": 135
+      },
+      {
+        "name": "Fisher-Price",
+        "global_identifier": "Fisher-Price",
+        "name_en": "Fisher-Price",
+        "brand_id": 145
+      },
+      {
+        "name": "CSL",
+        "global_identifier": "CSL",
+        "name_en": "CSL",
+        "brand_id": 84
+      },
+      {
+        "name": "ED",
+        "global_identifier": "ED",
+        "name_en": "ED",
+        "brand_id": 127
+      },
+      {
+        "name": "Dolphin",
+        "global_identifier": "Dolphin",
+        "name_en": "Dolphin",
+        "brand_id": 119
+      },
+      {
+        "name": "Caring",
+        "global_identifier": "Caring",
+        "name_en": "Caring",
+        "brand_id": 89
+      },
+      {
+        "name": "EMI",
+        "global_identifier": "EMI",
+        "name_en": "EMI",
+        "brand_id": 129
+      },
+      {
+        "name": "Charmzone",
+        "global_identifier": "Charmzone",
+        "name_en": "Charmzone",
+        "brand_id": 92
+      },
+      {
+        "name": "Benro",
+        "global_identifier": "Benro",
+        "name_en": "Benro",
+        "brand_id": 63
+      },
+      {
+        "name": "Cold Mountain",
+        "global_identifier": "Cold Mountain",
+        "name_en": "Cold Mountain",
+        "brand_id": 101
+      },
+      {
+        "name": "Edimax",
+        "global_identifier": "Edimax",
+        "name_en": "Edimax",
+        "brand_id": 133
+      },
+      {
+        "name": "DIGIEYE",
+        "global_identifier": "DIGIEYE",
+        "name_en": "DIGIEYE",
+        "brand_id": 108
+      },
+      {
+        "name": "Balm Balm",
+        "global_identifier": "Balm Balm",
+        "name_en": "Balm Balm",
+        "brand_id": 55
+      },
+      {
+        "name": "Ecovacs",
+        "global_identifier": "Ecovacs",
+        "name_en": "Ecovacs",
+        "brand_id": 132
+      },
+      {
+        "name": "Eureka",
+        "global_identifier": "Eureka",
+        "name_en": "Eureka",
+        "brand_id": 137
+      },
+      {
+        "name": "Faber-Castell",
+        "global_identifier": "Faber-Castell",
+        "name_en": "Faber-Castell",
+        "brand_id": 141
+      },
+      {
+        "name": "Fone",
+        "global_identifier": "Fone",
+        "name_en": "Fone",
+        "brand_id": 148
+      },
+      {
+        "name": "Black Rapid",
+        "global_identifier": "Black Rapid",
+        "name_en": "Black Rapid",
+        "brand_id": 71
+      },
+      {
+        "name": "EAST",
+        "global_identifier": "EAST",
+        "name_en": "EAST",
+        "brand_id": 125
+      },
+      {
+        "name": "Clearspring",
+        "global_identifier": "Clearspring",
+        "name_en": "Clearspring",
+        "brand_id": 97
+      }
+    ],
+    "total_page": 2047,
+    "page_size": 50,
+    "total_record": 102340
+  },
+  "success": true,
+  "code": "0",
+  "request_id": "2101245517393583813726848"
+}
