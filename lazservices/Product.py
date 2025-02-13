@@ -97,3 +97,12 @@ def get_brand_by_pages(startRow: int = 0, pageSize: int = 50):
     response = client.execute(request)
     
     return response.body
+
+def update_sku_price(sku_id: str, price: str):
+    
+    data = f'<?xml version=\"1.0\" encoding=\"UTF-8\" ?><Request><Product><Skus><Sku><SkuId>{sku_id}</SkuId><price>{price}</price></Sku></Skus></Product></Request>'
+    
+    request = lazop.LazopRequest('/product/update', 'POST')
+    request.add_api_param('payload', data)
+    response = client.execute(request, access_token)
+    return response.body

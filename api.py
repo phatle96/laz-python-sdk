@@ -1,6 +1,9 @@
 from fastapi import FastAPI
 from lazservices import Product as LazProduct
 from lazmodels import CreateProductRequestModel
+from scripts import create_lazada_product_basic_module as product_basic_module
+from scripts import create_lazada_product_sku_module as product_sku_module
+from scripts import import_laz_products_to_corteza as import_laz_products
 
 app = FastAPI()
 
@@ -35,3 +38,19 @@ def migrate_image(data):
 @app.post("/Product/Create")
 async def create_product(data: CreateProductRequestModel):
     return LazProduct.create_product(data)
+
+@app.post("/Product/UpdateSkuPrice")
+async def update_sku_price(sku_id: str, price: str):
+    return LazProduct.update_sku_price(sku_id, price)
+
+@app.post("/Corteza/Module/LazadaProductBasic/Create")
+async def create_lazada_product_basic(cortezaBaseUrl: str, connectionID: str, token: str, namespaceID: str, moduleName: str, moduleHandle: str):
+    return product_basic_module.create_lazada_product_basic_module(cortezaBaseUrl, connectionID, token, namespaceID, moduleName, moduleHandle)
+
+@app.post("/Corteza/Module/LazadaProductSku/Create")
+async def create_lazada_product_sku(cortezaBaseUrl: str, connectionID: str, token: str, namespaceID: str, moduleName: str, moduleHandle: str):
+    return product_sku_module.create_lazada_product_sku_module(cortezaBaseUrl, connectionID, token, namespaceID, moduleName, moduleHandle)
+
+@app.post("/Corteza/Product/Import")
+async def import_laz_products_to_corteza(cortezaBaseUrl: str, namespaceID, token: str, productModuleId: str, skuModuleId: str):
+    return import_laz_products.run(cortezaBaseUrl, namespaceID, token, productModuleId, skuModuleId)
