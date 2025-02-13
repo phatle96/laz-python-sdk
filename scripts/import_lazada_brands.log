@@ -1,0 +1,155 @@
+2025-02-13 14:48:44,196 - INFO - Successfully imported batch 1 with 500 brands.
+2025-02-13 14:49:09,681 - INFO - Successfully imported batch 2 with 500 brands.
+2025-02-13 14:49:34,293 - INFO - Successfully imported batch 3 with 500 brands.
+2025-02-13 14:49:34,668 - ERROR - Failed to import batch 4: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:34,997 - ERROR - Failed to import batch 5: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:35,392 - ERROR - Failed to import batch 6: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:35,729 - ERROR - Failed to import batch 7: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:36,073 - ERROR - Failed to import batch 8: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:36,504 - ERROR - Failed to import batch 9: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:36,841 - ERROR - Failed to import batch 10: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:37,195 - ERROR - Failed to import batch 11: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:37,563 - ERROR - Failed to import batch 12: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:37,939 - ERROR - Failed to import batch 13: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:38,359 - ERROR - Failed to import batch 14: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:38,736 - ERROR - Failed to import batch 15: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:39,077 - ERROR - Failed to import batch 16: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:39,417 - ERROR - Failed to import batch 17: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:39,787 - ERROR - Failed to import batch 18: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:40,116 - ERROR - Failed to import batch 19: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:40,490 - ERROR - Failed to import batch 20: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:40,910 - ERROR - Failed to import batch 21: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:41,323 - ERROR - Failed to import batch 22: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:41,621 - ERROR - Failed to import batch 23: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:41,981 - ERROR - Failed to import batch 24: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:42,353 - ERROR - Failed to import batch 25: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:42,690 - ERROR - Failed to import batch 26: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:43,067 - ERROR - Failed to import batch 27: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:43,433 - ERROR - Failed to import batch 28: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:43,758 - ERROR - Failed to import batch 29: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:44,074 - ERROR - Failed to import batch 30: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:44,446 - ERROR - Failed to import batch 31: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:44,737 - ERROR - Failed to import batch 32: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:45,086 - ERROR - Failed to import batch 33: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:45,487 - ERROR - Failed to import batch 34: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:45,863 - ERROR - Failed to import batch 35: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:49:46,181 - ERROR - Failed to import batch 36: 401, {"error":{"message":"unauthorized","meta":{"type":"unauthorized"},"stack":[{"func":"auth.(*tokenIssuer).Validate","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_issuer.go","line":151},{"func":"auth.verifier.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/auth/token_middleware.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","file":"/opt/hostedtoolcache/go/1.19.13/x64/src/net/http/server.go","line":2109},{"func":"server.contextLogger.func1.1","file":"/home/runner/work/corteza/corteza/server/pkg/api/server/logger.go","line":28}]}}
+
+2025-02-13 14:53:34,933 - INFO - Successfully imported batch 1 with 500 brands.
+2025-02-13 14:53:59,836 - INFO - Successfully imported batch 2 with 500 brands.
+2025-02-13 14:54:26,993 - INFO - Successfully imported batch 3 with 500 brands.
+2025-02-13 14:54:52,730 - INFO - Successfully imported batch 4 with 500 brands.
+2025-02-13 14:55:28,324 - INFO - Successfully imported batch 5 with 500 brands.
+2025-02-13 14:55:54,234 - INFO - Successfully imported batch 6 with 500 brands.
+2025-02-13 14:56:20,304 - INFO - Successfully imported batch 7 with 500 brands.
+2025-02-13 14:56:43,061 - INFO - Successfully imported batch 8 with 500 brands.
+2025-02-13 14:57:05,503 - INFO - Successfully imported batch 9 with 500 brands.
+2025-02-13 14:57:31,666 - INFO - Successfully imported batch 10 with 500 brands.
+2025-02-13 14:57:53,782 - INFO - Successfully imported batch 11 with 500 brands.
+2025-02-13 14:58:18,133 - INFO - Successfully imported batch 12 with 500 brands.
+2025-02-13 14:58:38,492 - INFO - Successfully imported batch 13 with 500 brands.
+2025-02-13 14:58:58,540 - INFO - Successfully imported batch 14 with 500 brands.
+2025-02-13 14:59:23,882 - INFO - Successfully imported batch 15 with 500 brands.
+2025-02-13 14:59:48,100 - INFO - Successfully imported batch 16 with 500 brands.
+2025-02-13 15:00:18,052 - INFO - Successfully imported batch 17 with 500 brands.
+2025-02-13 15:00:50,834 - INFO - Successfully imported batch 18 with 500 brands.
+2025-02-13 15:01:21,176 - INFO - Successfully imported batch 19 with 500 brands.
+2025-02-13 15:01:48,857 - INFO - Successfully imported batch 20 with 500 brands.
+2025-02-13 15:02:20,882 - INFO - Successfully imported batch 21 with 500 brands.
+2025-02-13 15:02:50,173 - INFO - Successfully imported batch 22 with 500 brands.
+2025-02-13 15:03:22,502 - INFO - Successfully imported batch 23 with 500 brands.
+2025-02-13 15:03:51,086 - INFO - Successfully imported batch 24 with 500 brands.
+2025-02-13 15:04:15,191 - INFO - Successfully imported batch 25 with 500 brands.
+2025-02-13 15:04:38,398 - INFO - Successfully imported batch 26 with 500 brands.
+2025-02-13 15:05:05,164 - INFO - Successfully imported batch 27 with 500 brands.
+2025-02-13 15:05:31,540 - INFO - Successfully imported batch 28 with 500 brands.
+2025-02-13 15:05:52,915 - INFO - Successfully imported batch 29 with 500 brands.
+2025-02-13 15:06:13,921 - INFO - Successfully imported batch 30 with 500 brands.
+2025-02-13 15:06:34,121 - INFO - Successfully imported batch 31 with 500 brands.
+2025-02-13 15:06:51,891 - INFO - Successfully imported batch 32 with 500 brands.
+2025-02-13 15:07:46,826 - INFO - Successfully imported batch 1 with 5 brands.
+2025-02-13 15:11:25,811 - INFO - Successfully imported batch 1 with 5 brands.
+2025-02-13 15:14:15,765 - INFO - Successfully imported batch 1 with 2000 brands.
+2025-02-13 15:15:49,154 - INFO - Successfully imported batch 2 with 2000 brands.
+2025-02-13 15:17:39,578 - INFO - Successfully imported batch 3 with 2000 brands.
+2025-02-13 15:19:23,402 - INFO - Successfully imported batch 4 with 2000 brands.
+2025-02-13 15:20:51,005 - INFO - Successfully imported batch 5 with 2000 brands.
+2025-02-13 15:22:19,325 - INFO - Successfully imported batch 6 with 2000 brands.
+2025-02-13 15:23:49,671 - INFO - Successfully imported batch 7 with 2000 brands.
+2025-02-13 15:25:18,971 - INFO - Successfully imported batch 8 with 2000 brands.
+2025-02-13 15:26:44,643 - INFO - Successfully imported batch 9 with 2000 brands.
+2025-02-13 15:28:10,845 - INFO - Successfully imported batch 10 with 2000 brands.
+2025-02-13 15:29:41,872 - INFO - Successfully imported batch 11 with 2000 brands.
+2025-02-13 15:31:33,442 - INFO - Successfully imported batch 12 with 2000 brands.
+2025-02-13 15:33:13,165 - INFO - Successfully imported batch 13 with 2000 brands.
+2025-02-13 15:34:47,628 - INFO - Successfully imported batch 14 with 2000 brands.
+2025-02-13 15:36:41,726 - INFO - Successfully imported batch 15 with 2000 brands.
+2025-02-13 15:38:12,187 - INFO - Successfully imported batch 16 with 2000 brands.
+2025-02-13 15:39:50,351 - INFO - Successfully imported batch 17 with 2000 brands.
+2025-02-13 15:41:42,130 - INFO - Successfully imported batch 18 with 2000 brands.
+2025-02-13 15:43:31,880 - INFO - Successfully imported batch 19 with 2000 brands.
+2025-02-13 15:45:00,703 - INFO - Successfully imported batch 20 with 2000 brands.
+2025-02-13 15:46:41,799 - INFO - Successfully imported batch 21 with 2000 brands.
+2025-02-13 15:48:12,602 - INFO - Successfully imported batch 22 with 2000 brands.
+2025-02-13 15:49:39,945 - INFO - Successfully imported batch 23 with 2000 brands.
+2025-02-13 15:51:21,436 - INFO - Successfully imported batch 24 with 2000 brands.
+2025-02-13 15:52:49,226 - INFO - Successfully imported batch 25 with 2000 brands.
+2025-02-13 15:54:20,869 - INFO - Successfully imported batch 26 with 2000 brands.
+2025-02-13 15:55:56,307 - INFO - Successfully imported batch 27 with 2000 brands.
+2025-02-13 15:57:25,890 - INFO - Successfully imported batch 28 with 2000 brands.
+2025-02-13 15:58:55,818 - INFO - Successfully imported batch 29 with 2000 brands.
+2025-02-13 16:00:31,035 - INFO - Successfully imported batch 30 with 2000 brands.
+2025-02-13 16:02:14,855 - INFO - Successfully imported batch 31 with 2000 brands.
+2025-02-13 16:03:57,649 - INFO - Successfully imported batch 32 with 2000 brands.
+2025-02-13 16:05:37,010 - INFO - Successfully imported batch 33 with 2000 brands.
+2025-02-13 16:07:10,703 - INFO - Successfully imported batch 34 with 2000 brands.
+2025-02-13 16:08:41,073 - INFO - Successfully imported batch 35 with 2000 brands.
+2025-02-13 16:10:30,725 - INFO - Successfully imported batch 36 with 2000 brands.
+2025-02-13 16:12:07,973 - INFO - Successfully imported batch 37 with 2000 brands.
+2025-02-13 16:13:43,166 - INFO - Successfully imported batch 38 with 2000 brands.
+2025-02-13 16:15:22,983 - INFO - Successfully imported batch 39 with 2000 brands.
+2025-02-13 16:16:59,035 - INFO - Successfully imported batch 40 with 2000 brands.
+2025-02-13 16:18:38,919 - INFO - Successfully imported batch 41 with 2000 brands.
+2025-02-13 16:20:14,370 - INFO - Successfully imported batch 42 with 2000 brands.
+2025-02-13 16:21:57,968 - INFO - Successfully imported batch 43 with 2000 brands.
+2025-02-13 16:23:40,182 - INFO - Successfully imported batch 44 with 2000 brands.
+2025-02-13 16:25:37,883 - INFO - Successfully imported batch 45 with 2000 brands.
+2025-02-13 16:27:16,384 - INFO - Successfully imported batch 46 with 2000 brands.
+2025-02-13 16:29:24,883 - INFO - Successfully imported batch 47 with 2000 brands.
+2025-02-13 16:31:41,646 - INFO - Successfully imported batch 48 with 2000 brands.
+2025-02-13 16:33:32,037 - INFO - Successfully imported batch 49 with 2000 brands.
+2025-02-13 16:34:51,193 - INFO - Successfully imported batch 50 with 2000 brands.
+2025-02-13 16:36:33,503 - INFO - Successfully imported batch 51 with 2000 brands.
+2025-02-13 16:36:42,306 - INFO - Successfully imported batch 52 with 222 brands.
