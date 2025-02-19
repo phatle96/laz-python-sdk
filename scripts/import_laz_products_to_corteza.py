@@ -6,14 +6,6 @@ import time
 
 from lazservices import Product as LazProduct
 
-# Configure logging
-logging.basicConfig(
-    filename=f'lazada_products_import_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log',
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s'
-)
-
-
 def get_lazada_products(limit=50, offset=0):
     try:
         # headers = {
@@ -98,11 +90,17 @@ def import_to_corteza(url, records, token):
 def run(cortezaBaseUrl: str, namespaceID, token: str, productModuleId: str, skuModuleId: str):
     
     # Configuration
-    LAZADA_API_URL = 'http://127.0.0.1:8000/Product/GetProducts'
     CORTEZA_BASE_URL = f'{cortezaBaseUrl}/api/compose/namespace/{namespaceID}'
     PRODUCT_MODULE_URL = f'{CORTEZA_BASE_URL}/module/{productModuleId}/record/'
     SKU_MODULE_URL = f'{CORTEZA_BASE_URL}/module/{skuModuleId}/record/'
     BATCH_SIZE = 50
+    
+    # Configure logging
+    logging.basicConfig(
+        filename=f'lazada_products_import_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log',
+        level=logging.INFO,
+        format='%(asctime)s - %(levelname)s - %(message)s'
+    )
     
     # Replace with your actual token
     corteza_token = f'{token}'
